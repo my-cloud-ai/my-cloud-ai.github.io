@@ -1,0 +1,4 @@
+baseURL = "http://my-cloud-ai.github.io/"
+languageCode = "en-us"
+title = "Johnny New Hugo GitHub Page Site"
+theme = "ananke"
